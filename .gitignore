@@ -1,5 +1,4 @@
 .vscode
 out
 
-CMakePresets.json
 src/main.exe
